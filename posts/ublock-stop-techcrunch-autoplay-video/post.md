@@ -1,4 +1,4 @@
-# uBlock Origin: Stop TechCrunch from autoplaying videos
+# uBlock Origin filter to block autoplay videos in TechCrunch
 
 Every TechCrunch article autoplays a video in the middle of the post.
 Hiding it isn't enough, because the player keeps running in the background.

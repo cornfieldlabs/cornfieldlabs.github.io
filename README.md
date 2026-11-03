@@ -6,7 +6,7 @@
 
 ## Posts
 
-- [uBlock Origin: Stop TechCrunch from autoplaying videos](posts/ublock-stop-techcrunch-autoplay-video/post.md) - *Filters to block the JW Player video on every article*
+- [uBlock Origin filter to block autoplay videos in TechCrunch](posts/ublock-stop-techcrunch-autoplay-video/post.md) - *Filters to block the JW Player video on every article*
 - [Django: Get Sentry alerts in Slack for free using before_send](posts/sentry-slack-alerts-for-free/post.md)
 - [Django: Limiting no of database queries a function can execute](posts/django-limiting-no-of-queries-a-function-can-use/post.md) - *Using a decorator to limit the no of database queries a function can execute*
 - [Vibecoding niche Mac apps](posts/vibecoding-niche-mac-apps/post.md) - *I  vibe-coded a few Apps in Mac for my niche use cases.*
